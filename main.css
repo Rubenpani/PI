@@ -1,0 +1,30 @@
+body{
+    font-family: 'Consolas';
+    background-color: rgb(34, 34, 34);
+    margin: 20px 40px;
+}
+
+
+header{
+
+    height:100px;
+    background-color: rgb(180, 194, 206);
+
+
+
+}
+
+.cuerpo{
+    min-height: 500px;
+    background-color: rgb(207, 200, 169);
+}
+
+footer{
+
+    text-align: center;    
+    height:100px;
+    background-color: rgb(180, 194, 206);
+
+
+
+}
